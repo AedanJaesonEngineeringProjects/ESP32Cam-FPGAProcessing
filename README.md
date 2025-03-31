@@ -2,7 +2,7 @@
 
 ---
 
-## ** System Design Documentation**
+##  System Design Documentation
 
 ### **1. Project Overview**
 The **ESP32Cam-FPGAProcessing** project aims to explore the implementation of FPGA image processing using ESP32 microcontrollers. The primary objective is to capture images using the ESP32-CAM, process these images on an FPGA, and then either store the processed images on an SD card, stream them via an IoT backend (Azure), or display them on a web interface.
