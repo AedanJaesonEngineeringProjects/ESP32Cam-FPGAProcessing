@@ -65,4 +65,3 @@ The `camera.ino` file is the main Arduino sketch that initializes the camera, ca
 ### **Conclusion**
 This project is a work in progress with the ultimate goal of integrating FPGA-based image processing with ESP32 microcontrollers. The current progress includes setting up the initial design, attempting real-time image processing, and starting the development of image processing functions on a PC. The next steps involve porting these functions to the MCU, experimenting with FPGA implementation, and finalizing the design.
 
-For detailed system design documentation, please refer to [docs/system_design.md](docs/system_design.md).
